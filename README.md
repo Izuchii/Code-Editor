@@ -64,7 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Express](https://expressjs.com/) - Web application framework for Node.js-->
 
 ## Contact
-For any inquiries or feedback, please contact [izunonso1@gmail.com](mailto: izunonso1@gmail.com).
+For any inquiries or feedback, please contact [izunonso1@gmail.com](mailto:izunonso1@gmail.com).
 
 ---
 
