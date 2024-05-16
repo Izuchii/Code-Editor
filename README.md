@@ -57,14 +57,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 <!--## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.-->
 
-## Acknowledgements
+<!--## Acknowledgements
 - [React](https://reactjs.org/) - JavaScript library for building user interfaces
 - [CodeMirror](https://codemirror.net/) - In-browser code editor component
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment
-- [Express](https://expressjs.com/) - Web application framework for Node.js
+- [Express](https://expressjs.com/) - Web application framework for Node.js-->
 
 ## Contact
-For any inquiries or feedback, please contact izunonso1@gmail.com](mailto: izunonso1@gmail.com).
+For any inquiries or feedback, please contact [izunonso1@gmail.com](mailto: izunonso1@gmail.com).
 
 ---
 
