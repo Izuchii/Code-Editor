@@ -1,7 +1,7 @@
 # Code Editor App
 
 ## Overview
-This project is a code editor web app designed to provide a sleek and efficient environment for writing and editing code in various programming languages (intended). It currently is capable of running HTML, CSS, and JavaScript codes. <!--It offers features such as syntax highlighting, auto-indentation, code completion, and more, to enhance the coding experience.-->
+This project is an offline code editor web app designed to provide a sleek and efficient environment for writing, editing and running code in various programming languages (ultimately). It currently is capable of running HTML, CSS, and JavaScript codes. <!--It offers features such as syntax highlighting, auto-indentation, code completion, and more, to enhance the coding experience.-->
 
 <!--## Features
 - **Syntax Highlighting**: Supports syntax highlighting for a wide range of programming languages to improve code readability.
